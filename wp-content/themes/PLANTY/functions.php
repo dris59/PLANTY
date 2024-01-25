@@ -7,7 +7,7 @@ function theme_enqueue_styles() {
 
 
 
-
+//Hook qui ajoute un bouton admin au menu quand on est connecté
 add_filter( 'wp_nav_menu_items', 'ajout_menu', 10, 2 );
 function ajout_menu( $items, $args ) {
 	if (is_user_logged_in()) {
