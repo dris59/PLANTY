@@ -14,4 +14,5 @@ function ajout_menu( $items, $args ) {
 		$items .= '<li class="menu-item"><a class="menu-link" href="/wp-admin">Admin</a></li>';
 	}
 	return $items;
+
 }
