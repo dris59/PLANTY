@@ -1,0 +1,2 @@
+2024-01-30T12:13:51+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\PLANTY\wp-content\plugins\woocommerce\src\Admin\API\Reports\Customers\Stats\Controller.php on line 10
+
