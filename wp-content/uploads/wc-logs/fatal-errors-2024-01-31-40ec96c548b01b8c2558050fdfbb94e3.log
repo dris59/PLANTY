@@ -1,0 +1,6 @@
+2024-01-31T10:06:40+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\PLANTY\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-reports.php on line 13
+
+2024-01-31T20:42:26+00:00 CRITICAL syntax error, unexpected token ".", expecting end of file in C:\MAMP\htdocs\PLANTY\wp-content\themes\PLANTY\functions.php on line 21
+
+2024-01-31T20:42:38+00:00 CRITICAL syntax error, unexpected token ".", expecting end of file in C:\MAMP\htdocs\PLANTY\wp-content\themes\PLANTY\functions.php on line 21
+

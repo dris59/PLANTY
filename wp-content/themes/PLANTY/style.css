@@ -16,3 +16,31 @@
 .page-id-58 #content {
     background: #00d166;
 }
+.wpcf7-form #form-mod {
+	padding-bottom:20px;
+		padding-top:0px;
+	width:50%;
+margin:30px auto;
+	
+} 
+
+
+.wpcf7-submit{
+	border-radius:3px;
+color:#fff;
+	background-color:yellow;
+	padding:15px 0;
+	width:50%;
+		margin:1em 25% 0;
+}
+/*mmodification le formulaire de contact */
+.wpcf7-form #comm-mod {
+	display:grid;
+	grid-template-columns:1fr 1fr;
+	grid-gap:20px;
+		
+		padding-bottom:20px;
+		padding-top:20px;
+	width:50%;
+margin:30px auto;
+}
