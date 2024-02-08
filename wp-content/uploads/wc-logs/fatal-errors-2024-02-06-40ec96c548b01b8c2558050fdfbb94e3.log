@@ -1,0 +1,4 @@
+2024-02-06T08:35:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\PLANTY\wp-includes\functions.php on line 6805
+
+2024-02-06T08:35:37+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\PLANTY\wp-content\plugins\woocommerce\src\Blocks\BlockTypes\ProductCategories.php on line 407
+

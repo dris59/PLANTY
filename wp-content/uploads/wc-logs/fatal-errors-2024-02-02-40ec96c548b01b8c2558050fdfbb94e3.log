@@ -1,0 +1,4 @@
+2024-02-02T09:31:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\PLANTY\wp-content\plugins\contact-form-7\includes\swv\rules\date.php on line 37
+
+2024-02-02T09:31:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\MAMP\htdocs\PLANTY\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-posts-controller.php on line 9
+
