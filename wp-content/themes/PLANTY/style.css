@@ -44,3 +44,195 @@ color:#fff;
 	width:50%;
 margin:30px auto;
 }
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;800&display=swap');
+
+/* modification de  la page d'accueil */
+.fondmauve {
+    background: #E3D9D0;
+    width: 100%;
+    margin: 0 auto !important;
+	  padding: 70px 0;
+  }
+
+.basarrondi{
+	    max-width: none !important;
+	border-bottom-left-radius:50% 10%;
+	border-bottom-right-radius:50% 10%;
+}
+/*modification du formulaire de contact */
+#wpforms-form-1099{
+background-image: url(http://localhost/PLANTY/wp-content/uploads/2024/02/Group-16-1.png);
+background-position: bottom left;
+background-repeat: no-repeat;
+max-width:500px;
+margin:auto;
+padding: 0 80px;
+}
+div.wpforms-submit-container{
+	display:flex;
+	justify-content:center;
+}
+
+.basarrondileger{
+	    max-width: none !important;
+	border-bottom-left-radius:20% 10%;
+	border-bottom-right-radius:20% 10%;
+}
+
+.fondmauves {
+	  background: #E3D9D0;
+    width: 100%;
+
+    margin: 0 auto !important;
+    padding: 20px 0;
+    max-width: none !important;
+}
+
+#primary .plein_ecran img {
+    width: 100%;
+	
+}
+#primary .plein_ecran {
+    width: 100%;
+    max-width: none;
+	
+	!important;
+}
+
+/* Change la couleur de fond de la page commande */
+.page-id-58 #content {
+    background: #00d166;
+	
+}
+.leformulaire {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.colonnecentre{
+	margin:0 20px;
+	background:white;
+	width:2px;
+}
+.wp-block-separator.has-background{
+	margin-left:280px;
+	margin-right:280px;
+}
+h2.comm-mod{
+color:white;
+	}
+
+#primary .wpcf7-submit {
+    background-color: #dc9f96;
+    padding: 15px 0;
+    margin: auto !important;
+    font-size: 20px;
+    display: block;
+    border-radius: 3px;
+    border: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 200px;
+}
+/* modification de  la galerie de la page d'accueil */
+.galeries {
+	background-color:#E3D9D0;
+	max-width:600px !important;
+	margin: 0 auto 
+	   !important;
+    padding: 20px 0;
+    max-width: none !important;
+	margin-left:100%;
+}
+
+.wp-block-group{
+
+	 width: 100%;
+}
+
+.ast-plain-container.ast-no-sidebar #primary {
+	margin-bottom:0;
+	margin-top:0;
+}
+
+.page-id-58 #primary {
+    background: #00d166;
+    margin: 0 auto;
+	
+			!important;
+}
+.boutons_carres {
+    max-width: 800px;
+			!important;
+}
+.galeries {
+	background: #E3D9D0;
+    width: 50%;
+    margin: 0 auto !important;
+    padding: 20px 0;
+    max-width: none !important;
+}
+.mod-comm{
+	padding-left:50px;
+	padding-right:50px;
+}
+.comm-mod{
+	color:white;
+}
+.h2{
+	color:white;
+}
+	
+/* les modification du menus de la page d'accueil */
+li#menu-item-99 {
+	background-color:#DC9F96;
+}
+li#menu-item-99 a {
+    color: white;
+}
+	/* les modification du footer et menu  */
+ 
+img.wp-image-614{
+	background-color:#E3D9D0;
+}
+.home img.wp-image-614 {
+    background: white;
+}
+a.menu-link{
+	color:black;
+}
+
+.wp-block-image img{
+	padding-bottom:0px;
+}
+	/* les modification de la page de rencontre  */
+.woocommerce-js h2{
+	margin-bottom:5px;
+	margin-top:7px;
+}
+	/*  les modification des police de caractères du texte "titre ""paragraphe"      */
+
+h1.has-text-align-center{
+font-family: 'Syne', sans-serif;
+font-weight:800;
+		font-size:30px;
+	}
+
+}
+
+
+
+
+
+	
+
+	
+
+ 
+
+	
+
