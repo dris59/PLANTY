@@ -12,6 +12,9 @@
  Text Domain:  astra/child
 */
 
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;800&display=swap');
+
 /* Change la couleur de fond de la page commande */
 .page-id-58 #content {
     background: #00d166;
@@ -46,8 +49,6 @@ margin:30px auto;
 }
 
 
-
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;800&display=swap');
 
 /* modification de  la page d'accueil */
 .fondmauve {
