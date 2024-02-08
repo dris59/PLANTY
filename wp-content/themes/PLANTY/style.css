@@ -26,6 +26,21 @@
 margin:30px auto;
 	
 } 
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400&display=swap');
+.entry-content h3 {
+	font-family: 'Syne', sans-serif;
+}
+.has-text-align-center{
+		font-family: 'Syne', sans-serif;
+}
+.woocommerce-js h2{
+font-style:normal;
+	font-size:30px;
+}
+.entry-content h6{
+	margin-bottom:3px;
+}
+
 
 
 .wpcf7-submit{
@@ -223,7 +238,7 @@ font-weight:800;
 		font-size:30px;
 	}
 
-}
+
 
 
 
