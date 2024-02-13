@@ -101,10 +101,13 @@ div.wpforms-submit-container{
 .fondmauves {
 	  background: #E3D9D0;
     width: 100%;
-
+	border-bottom-left-radius:10% 2%;
+	border-bottom-right-radius:10% 2%;
     margin: 0 auto !important;
-    padding: 20px 0;
+   
     max-width: none !important;
+	margin: 0 auto !important;
+   
 }
 
 #primary .plein_ecran img {
@@ -185,6 +188,7 @@ color:white;
     max-width: 800px;
 			!important;
 }
+
 .galeries {
 	background: #E3D9D0;
     width: 50%;
@@ -220,6 +224,8 @@ img.wp-image-614{
 }
 a.menu-link{
 	color:black;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .wp-block-image img{
