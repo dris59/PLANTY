@@ -42,7 +42,6 @@ font-style:normal;
 }
 
 
-
 .wpcf7-submit{
 	border-radius:3px;
 color:#fff;
@@ -64,13 +63,17 @@ margin:30px auto;
 }
 
 
-
 /* modification de  la page d'accueil */
 .fondmauve {
     background: #E3D9D0;
     width: 100%;
     margin: 0 auto !important;
 	  padding: 70px 0;
+  }
+  li#menu-item-99 a{
+	padding-left: 50px;
+	padding-right: 50px;
+	
   }
 
 .basarrondi{
@@ -101,14 +104,25 @@ div.wpforms-submit-container{
 .fondmauves {
 	  background: #E3D9D0;
     width: 100%;
-	border-bottom-left-radius:10% 2%;
-	border-bottom-right-radius:10% 2%;
+	
     margin: 0 auto !important;
    
     max-width: none !important;
 	margin: 0 auto !important;
    
 }
+.fondmauv{
+	
+		background: #E3D9D0;
+	  width: 100%;
+	  
+	  margin: 0 auto !important;
+	 
+	  max-width: none !important;
+	  margin: 0 auto !important;
+	  border-bottom-left-radius:10% 2%;
+	  border-bottom-right-radius:10% 2%;
+  }
 
 #primary .plein_ecran img {
     width: 100%;
@@ -144,6 +158,11 @@ div.wpforms-submit-container{
 h2.comm-mod{
 color:white;
 	}
+
+
+#page .wp-block-buttons>.wp-block-button.wp-block-button__width-25 {
+	width: 300px;
+}
 
 #primary .wpcf7-submit {
     background-color: #dc9f96;
@@ -210,6 +229,7 @@ color:white;
 /* les modification du menus de la page d'accueil */
 li#menu-item-99 {
 	background-color:#DC9F96;
+	order: 3;
 }
 li#menu-item-99 a {
     color: white;
@@ -247,14 +267,33 @@ font-weight:800;
 
 
 
+	@media screen and (max-width: 765px) {
+		
+		.colonnecentre {
+			display: none;
+		}
 
+		.leformulaire {
+			flex-direction: column;
+			padding: 30px;
+		}
+		.lesfruits figure{
+			text-align: center;
+		}
+
+		.lesavis .wp-block-media-text__media img {
+			max-width: 200px;
+		}
+
+
+		}
 
 
 	
 
 	
 
- 
+	
 
 	
 
